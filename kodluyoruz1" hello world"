@@ -1,0 +1,7 @@
+#include <stdio>
+#include <cs50>
+
+int main(){
+string name=get_string("adın ne",name);
+printf("adın",name)
+}
